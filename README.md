@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**Zrynix/Zrynix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello,I am Amine 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am Amine Aouragh,
+I am a student at the MBO institution TCR.
+
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on,  Multiple projects.
+
+🧠 I'm currently learning, Wordpress,Javascript,PHP and MYSQL
+
+
+## 🛠 Skills
+HTML,CSS,PHP,MYSQL,Javascript
+
